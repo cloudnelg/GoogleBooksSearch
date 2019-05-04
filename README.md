@@ -3,4 +3,4 @@
 ## App Information
 Full stack MERN App that searches Google Books and returns results which can be saved and deleted.
 
-- [GoogleBooksSearch](https://nelgbooksearch.herokuapp.com/)
+- [Deployed App](https://nelgbooksearch.herokuapp.com/)
